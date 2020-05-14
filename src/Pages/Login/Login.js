@@ -30,7 +30,7 @@ class Login extends Component {
                     하나의 ID/Password로 SPC가 운영하는 사이트(배스킨라빈스,
                     던킨도너츠, 해피포인트카드, 파리바게뜨, 파리크라상,
                     파스쿠찌, SPC그룹,우리밀愛)를 한번에!! 간단한 동의 절차만
-                    거치면 하나의 ID/Password로 제휴사이트를 로그인 할 수 있습니다.
+                    거치면 하나의 ID/Password로 제휴사이트를 로그인 가능합니다.
                   </p>
                 </div>
                 <div className="center">
